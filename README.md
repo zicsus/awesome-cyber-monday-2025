@@ -40,7 +40,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 50% OFF - NO CODE REQUIRED | [Get Deal](https://sitely.app/store) | Nov 14 - Dec 5 |
-| [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors design workflow. | 30% OFF Lifetime | https://litur.app | Nov 24th 2025 - Dec 2nd 2025 |
+| [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors design workflow. | 30% OFF - NO CODE REQUIRED | [Get Deal](https://litur.app) | Nov 24th 2025 - Dec 24th 2025 |
 
 ## 📚 Courses & Learning
 
@@ -58,7 +58,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| [Viso(macOS)] | Beautiful minimal image viewer for macOS | 30% OFF Lifetime | https://getviso.app | Nov 24th 2025 - Dec 4th 2025 |
+| [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF - NO CODE REQUIRED | [Get Deal](https://getviso.app) | Nov 24th 2025 - Dec 4th 2025 |
 | [FileMinutes](https://www.fileminutes.com/?utm_source=awesome-cyber-monday-2025) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** | [Get Lifetime Deal](https://www.fileminutes.com/pricing/?utm_source=awesome-cyber-monday-2025) | Nov 15 - Dec 7 |
 
 ## 🌐 Hosting & Infrastructure
@@ -75,7 +75,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** | [Redeem deal](https://apps.apple.com/redeem?ctx=offercodes&id=6458535284&code=BLACKFRIDAY) | Nov 14 - Dec 2 |
 | [Pretty Progress - Countdown](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen (iOS & Android). | **50% OFF** Lifetime plan. No code needed | Available  in Paywall | Nov 24 - Dec 3 |
 | [Litur(iOS)] | A color picker for the real world. Litur helps you find and collect all the colors around you. | 33% OFF Lifetime | https://apps.apple.com/us/app/litur/id1487096693?ls=1<br><br>https://litur.app | Nov 24th 2025 - Dec 2nd 2025 |
-| [Blark(iOS)] | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. <br><br>Use the code BLARKFRIDAY to get 30% OFF the yearly plan. Redeem through the app or from the AppStore | 30% OFF Yearly Plan | https://apps.apple.com/redeem?ctx=offercodes&id=6742157071&code=BLARKFRIDAY<br><br>https://blark.app | Nov 24th 2025 - Dec 2nd 2025 |
+| [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. <br><br>Use the code BLARKFRIDAY to get 30% OFF the yearly plan. Redeem through the app or from the AppStore | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6742157071&code=BLARKFRIDAY)<br><br>Available also on PayWall | Nov 24th 2025 - Dec 2nd 2025 |
 
 ## 🎮 Hardware & Gadgets
 
